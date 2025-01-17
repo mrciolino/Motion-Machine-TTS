@@ -4,11 +4,7 @@
 🕹️Apply preset movement to any object in TTS. Perfect for making maps that use traps or motion. Is persistent through saves and with One World. 
 
 <!-- show video motion_machine_example.mp4 -->
-<video width="800" controls>
-  <source src="motion_machine_example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/b3cece13-681f-456e-b03f-9705ef8eaadb
 
 
 ## Features
@@ -23,7 +19,7 @@
 3. Select an animation from the list to apply it to the object.
 4. Use the right-click to inject the animation menu into **selected objects**.
  
-<img src="machine.png" alt="Example" width="800">
+![Example](machine.png)
 
 ## Animations
 
