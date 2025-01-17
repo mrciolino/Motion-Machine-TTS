@@ -20,7 +20,7 @@ function onFixedUpdate()
 
     if animation_active then
         if math.cos(AnimationClock) == 1.00000 then
-            print("Animation Clock is at max count: ", count, " value is ", string.format("%.5f", math.cos(AnimationClock)), " clock ", AnimationClock)
+            print("Animation Active: ", count)
             count = count + 1
         end
     end

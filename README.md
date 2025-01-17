@@ -3,6 +3,14 @@
 🎲 Welcome to Motion Machine! This Lua script adds dynamic and animated movements to tabletop game objects in Tabletop Simulator. \
 🕹️Apply preset movement to any object in TTS. Perfect for making maps that use traps or motion. Is persistent through saves and with One World. 
 
+<!-- show video motion_machine_example.mp4 -->
+<video width="800" controls>
+  <source src="motion_machine_example.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 ## Features
 - **Responsive Menus:** Menus dynamically change based on animation state.
 - **Smooth Transitions:** Animations utilize smooth movement for a polished experience.
@@ -14,8 +22,8 @@
 2. Use the settings menu to see the list of animations.
 3. Select an animation from the list to apply it to the object.
 4. Use the right-click to inject the animation menu into **selected objects**.
-
-Example:  ![Example](machine.png)
+ 
+<img src="machine.png" alt="Example" width="800">
 
 ## Animations
 
